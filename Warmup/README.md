@@ -4,7 +4,7 @@
 
 maybe ?
 
-_Given:_ [prob-384eac]()
+_Given:_ [prob-384eac](https://github.com/LeonGurin/T3N4CI0US-Escape-2022/blob/main/Warmup/prob)
 
 ___
 

@@ -4,7 +4,7 @@
 
 string
 
-_Given:_ [prob-7290f4]()
+_Given:_ [prob-7290f4](https://github.com/LeonGurin/T3N4CI0US-Escape-2022/blob/main/Swood/prob)
 
 ___
 
