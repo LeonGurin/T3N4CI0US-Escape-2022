@@ -10,7 +10,7 @@ I didn't like this challenge at all.
 
 I copied the prompt and got the answer right away from google images:
 
-[img1](https://github.com/LeonGurin/T3N4CI0US-Escape-2022/blob/main/ro/img1.png)
+![img1](https://github.com/LeonGurin/T3N4CI0US-Escape-2022/blob/main/ro/img1.png)
 
 This is not the right way to form a question.
 
