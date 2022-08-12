@@ -3,21 +3,21 @@
 
  | Challenge Name          | Points   | Scored by
  | --------------          | ------   | ---------
- | [Swood]() | 250 points | 0x0tu
+ | [Swood](https://github.com/LeonGurin/T3N4CI0US-Escape-2022/tree/main/Swood) | 250 points | 0x0tu
  | cigarette | 250 points | 0x0tu
- | [french]() | 100 points | spook
- | [Before Porta arrives at the port!]() | 200 points | spook
- | [ro]() | 200 points | spook
- | [Check Check Check]() | 50 points | spook
+ | [french](https://github.com/LeonGurin/T3N4CI0US-Escape-2022/tree/main/french) | 100 points | spook
+ | [Before Porta arrives at the port!](https://github.com/LeonGurin/T3N4CI0US-Escape-2022/tree/main/Before%20Porta%20arrives%20at%20the%20port!) | 200 points | spook
+ | [ro](https://github.com/LeonGurin/T3N4CI0US-Escape-2022/tree/main/ro) | 200 points | spook
+ | [Check Check Check](https://github.com/LeonGurin/T3N4CI0US-Escape-2022/tree/main/Check%20Check%20Check) | 50 points | spook
  | G0 | 300 points | 0x0tu
- | [Warmup]() | 50 points | 0x0tu
+ | [Warmup](https://github.com/LeonGurin/T3N4CI0US-Escape-2022/tree/main/Warmup) | 50 points | 0x0tu
  | VISKA | 50 points | 0x0tu
- | [one]() | 300 points | spook
+ | [one](https://github.com/LeonGurin/T3N4CI0US-Escape-2022/tree/main/one) | 300 points | spook
  | Travel Japen | 250 points | 0x0tu
  | find me | 100 points | Matt
  | Find us | 200 points | Matt
- | [WHISEN]() | 100 points | Matt
- | [Japen Electronic]() | 50 points | 0x0tu
+ | [WHISEN](https://github.com/LeonGurin/T3N4CI0US-Escape-2022/tree/main/WHISEN) | 100 points | Matt
+ | [Japen Electronic](https://github.com/LeonGurin/T3N4CI0US-Escape-2022/tree/main/Travel%20Japen) | 50 points | 0x0tu
  | Rosin | 350 points | 0x0tu
 
 _this was the actual solve order of the challenges_
