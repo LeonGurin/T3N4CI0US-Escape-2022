@@ -28,5 +28,3 @@ _this was the actual solve order of the challenges_
 
 I am very proud of our result, this is the first top 50 finish in a competition (let alone first top 100 finish) 
 
-I was very happy about this competition result.
-
